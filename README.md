@@ -1,4 +1,4 @@
-# Torkware Theme
+# Torkware Bootstrap Theme
  
 ##### The official Bootstrap theme for Torkware
 
