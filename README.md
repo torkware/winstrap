@@ -59,4 +59,4 @@ The changes you make to the Sass files `*.scss` or source documentation files `*
 
 - - -
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+This project has adopted the [Torkware Open Source Code of Conduct](https://opensource.torkware.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.torkware.com/codeofconduct/faq/) or contact [contact@torkware.com](mailto:contact@torkware.com) with any additional questions or comments.
