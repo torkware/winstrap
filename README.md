@@ -1,5 +1,5 @@
 ﻿# Winstrap
-##### The official Bootstrap theme for Windows
+##### The official Bootstrap theme for Torkware
 ﻿
 http://winstrap.azurewebsites.net/
 
