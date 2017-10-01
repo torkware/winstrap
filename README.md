@@ -1,6 +1,7 @@
-﻿# Winstrap
+# Torkware
+ 
 ##### The official Bootstrap theme for Torkware
-﻿
+
 http://winstrap.azurewebsites.net/
 
 ## Development
